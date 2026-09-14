@@ -90,7 +90,10 @@ Model Improvement
 | Git | Version Control |
 | GitHub | Code Management & Portfolio |
 
-## Machine-Learning-Portfolio/
+## 📂 Repository Structure
+
+```text
+Machine-Learning-Portfolio/
 │
 ├── 01-Machine-Learning-Fundamentals/
 │
@@ -103,9 +106,9 @@ Model Improvement
 │   └── Dimensionality-Reduction/
 │
 ├── 04-Data-Preprocessing/
-│   ├── Missing-Value-Handling/
-│   ├── Duplicate-Handling/
-│   ├── Outlier-Handling/
+│   ├── Missing-Values/
+│   ├── Duplicates/
+│   ├── Outliers/
 │   ├── Encoding/
 │   └── Feature-Scaling/
 │
