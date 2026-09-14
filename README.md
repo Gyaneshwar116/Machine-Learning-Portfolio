@@ -90,7 +90,7 @@ Model Improvement
 | Git | Version Control |
 | GitHub | Code Management & Portfolio |
 
-Machine-Learning-Portfolio/
+## Machine-Learning-Portfolio/
 │
 ├── 01-Machine-Learning-Fundamentals/
 │
