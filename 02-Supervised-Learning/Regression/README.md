@@ -25,4 +25,4 @@ Regression/
 │   ├── Support-Vector-Regression.ipynb
 │   └── README.md
 │
-└── README.md
+└── README.md.
