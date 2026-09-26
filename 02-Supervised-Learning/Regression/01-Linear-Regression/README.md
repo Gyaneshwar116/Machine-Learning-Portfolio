@@ -12,7 +12,7 @@ Despite being one of the oldest machine learning algorithms, Linear Regression r
 
 ## Problem Statement
 
-Given a dataset:
+Given a dataset
 
 D = {(x₁,y₁),(x₂,y₂),...,(xₙ,yₙ)}
 
